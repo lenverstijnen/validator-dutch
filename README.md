@@ -1,6 +1,6 @@
 # Validator Dutch
 
-Simple form-validation package for validating input strings. The error messages are in Dutch but can be customised.
+Made this package for practicing purpose. I discourage you to use it, Joi or Yup instead :-). Simple form-validation package for validating input strings. The error messages are in Dutch but can be customised.
 
 ## Installation
 
